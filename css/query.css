@@ -359,7 +359,7 @@
   }
   .coin-internl-part {
     height: 3rem;
-    width: 7rem;
+    width: 7.5rem;
     border-radius: 3rem;
   }
   .section::before {
@@ -378,6 +378,13 @@
     border-radius: 1.4rem;
     height: 6rem;
     width: 90%;
+  }
+  .search {
+    font-size: 1.8rem;
+    margin-left: 3rem;
+  }
+  .search-icon {
+    margin-right: 3rem;
   }
   .image-1,
   .image-2,
@@ -398,7 +405,10 @@
     height: 3rem;
     font-size: 2rem;
     top: 0;
-    left: 21%;
+    left: 25%;
+  }
+  .arrow-point {
+    right: -25%;
   }
   .img1,
   .img2,
@@ -421,7 +431,10 @@
     height: 3rem;
     font-size: 2rem;
     top: 0;
-    left: 21%;
+    left: 25%;
+  }
+  .arrow-point2 {
+    right: -25%;
   }
   .icons {
     width: 95%;
