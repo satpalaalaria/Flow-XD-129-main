@@ -126,9 +126,15 @@
   .img3,
   .img4,
   .img5,
-  .img6 {
-    height: 100%;
-    width: 100%;
+  .img6,
+  .img1a,
+  .img2a,
+  .img3a,
+  .img4a,
+  .img5a,
+  .img6a {
+    height: 32.7rem;
+    width: 25.5rem;
   }
   .office {
     height: 6rem;
@@ -301,9 +307,15 @@
   .img3,
   .img4,
   .img5,
-  .img6 {
-    height: 100%;
-    width: 100%;
+  .img6,
+  .img1a,
+  .img2a,
+  .img3a,
+  .img4a,
+  .img5a,
+  .img6a {
+    height: 22.7rem;
+    width: 16.5rem;
   }
 
   .office {
@@ -340,14 +352,14 @@
   }
 }
 /* For MObile Large 425px*/
-@media (max-width: 27em) {
+@media (max-width: 26.56em) {
   html {
     font-size: 60%;
   }
   body {
     height: 100%;
     width: 42.5rem;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
   }
   .contanir {
     height: 100%;
@@ -415,9 +427,15 @@
   .img3,
   .img4,
   .img5,
-  .img6 {
-    height: 100%;
-    width: 100%;
+  .img6,
+  .img1a,
+  .img2a,
+  .img3a,
+  .img4a,
+  .img5a,
+  .img6a {
+    height: 20rem;
+    width: 13.5rem;
   }
   .office {
     height: 5.7rem;
@@ -441,18 +459,17 @@
   }
 }
 /*For Mobile Medium 375px*/
-@media (max-width: 23em) {
+@media (max-width: 23.43em) {
   html {
     font-size: 58%;
   }
   body {
     height: 100%;
-    width: 37rem;
-    overflow-x: hidden;
+    width: 37.5rem;
   }
   .contanir {
     height: 100%;
-    width: 37rem;
+    width: 37.5rem;
   }
   .header {
     height: 5rem;
@@ -526,9 +543,15 @@
   .img3,
   .img4,
   .img5,
-  .img6 {
-    height: 100%;
-    width: 100%;
+  .img6,
+  .img1a,
+  .img2a,
+  .img3a,
+  .img4a,
+  .img5a,
+  .img6a {
+    height: 18.5rem;
+    width: 12rem;
   }
   .office {
     height: 5.7rem;
@@ -553,9 +576,17 @@
   html {
     font-size: 55%;
   }
+  body {
+    height: 100%;
+    width: 32rem;
+    /* padding-left: 20rem; */
+  }
   .contanir {
     height: 100%;
-    width: 33rem;
+    width: 32rem;
+
+    /* margin-right: 50%; */
+    /* width: 100%; */
   }
   .header {
     height: 5rem;
@@ -602,7 +633,7 @@
   .image-2,
   .image-3 {
     height: 8rem;
-    width: 13 rem;
+    width: 13rem;
     border-radius: 1.4rem;
   }
   .cococola {
@@ -619,6 +650,9 @@
     top: 0;
     left: 25%;
   }
+  .arrow-point {
+    right: -15%;
+  }
   .post,
   .post2 {
     margin-left: 7rem;
@@ -628,9 +662,16 @@
   .img3,
   .img4,
   .img5,
-  .img6 {
-    height: 100%;
-    width: 100%;
+  .img6,
+  .img1a,
+  .img2a,
+  .img3a,
+  .img4a,
+  .img5a,
+  .img6a {
+    height: 16.5rem;
+    width: 10.5rem;
+    margin-left: 0.5rem;
   }
   .office {
     height: 5.7rem;
@@ -646,7 +687,30 @@
     top: 0;
     left: 25%;
   }
+  .arrow-point2 {
+    right: -15%;
+  }
   .icons {
     width: 95%;
+  }
+  .icon1 {
+    height: 2.5rem;
+    width: 3.5rem;
+  }
+  .icon2 {
+    height: 2.8rem;
+    width: 4.5rem;
+  }
+  .icon3 {
+    height: 2.5rem;
+    width: 3rem;
+  }
+  .icon4 {
+    height: 3rem;
+    width: 3rem;
+  }
+  .icon5 {
+    height: 3rem;
+    width: 3rem;
   }
 }
