@@ -9,6 +9,8 @@
   body {
     height: 100%;
     width: 76.8rem;
+    justify-content: center;
+    align-items: center;
   }
   .contanir {
     height: 100%;
@@ -176,6 +178,8 @@
   body {
     height: 100%;
     width: 51.2rem;
+    justify-content: center;
+    align-items: center;
   }
   .contanir {
     height: 100%;
@@ -359,6 +363,8 @@
   body {
     height: 100%;
     width: 42.5rem;
+    justify-content: center;
+    align-items: center;
     /* overflow-x: hidden; */
   }
   .contanir {
@@ -466,6 +472,8 @@
   body {
     height: 100%;
     width: 37.5rem;
+    justify-content: center;
+    align-items: center;
   }
   .contanir {
     height: 100%;
@@ -579,6 +587,8 @@
   body {
     height: 100%;
     width: 32rem;
+    justify-content: center;
+    align-items: center;
     /* padding-left: 20rem; */
   }
   .contanir {
